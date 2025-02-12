@@ -1,0 +1,26 @@
+Item,Category,Price,Quantity
+Apples,Fruit,1.20,10
+Bananas,Fruit,0.50,15
+Carrots,Vegetable,0.80,12
+Milk,Dairy,2.50,5
+Cheese,Dairy,3.75,6
+Chicken,Meat,5.99,4
+Beef,Meat,7.50,3
+Bread,Bakery,2.00,8
+Eggs,Dairy,3.20,12
+Orange Juice,Beverage,4.00,7
+Potatoes,Vegetable,1.10,10
+Tomatoes,Vegetable,1.50,9
+Rice,Grain,2.20,10
+Pasta,Grain,1.75,11
+Yogurt,Dairy,1.25,10
+Cereal,Breakfast,3.90,6
+Coffee,Beverage,6.50,3
+Tea,Beverage,4.25,4
+Butter,Dairy,2.80,5
+Sugar,Baking,1.90,7
+Flour,Baking,2.00,8
+Salt,Spices,1.00,10
+Pepper,Spices,2.50,6
+Olive Oil,Condiments,7.99,2
+Vinegar,Condiments,3.00,4
